@@ -13,7 +13,7 @@ Code quality will be assessed. We're looking for evidence that you can write pro
 
 Please feel free to try different things or experiment with this. Have fun, see what you can do.
 
-* A hybrid reccomendation system is one that uses both collaborative filtering and content filtering. It is worth getting familiar with these terms.
+*A hybrid reccomendation system is one that uses both collaborative filtering and content filtering. It is worth getting familiar with these terms.
 
 You may find the documentation and these guides helpful: 
 
