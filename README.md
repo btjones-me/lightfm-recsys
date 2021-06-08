@@ -15,7 +15,7 @@ Please feel free to try different things or experiment with this. Have fun, see 
 
 To complete the task, make a Pull Request to this repository. 
 
-*A hybrid reccomendation system is one that uses both collaborative filtering and content filtering. It is worth getting familiar with these terms.
+*A hybrid recommendation system is one that uses both collaborative filtering and content filtering. It is worth getting familiar with these terms.
 
 You may find the documentation and these guides helpful: 
 
