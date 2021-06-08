@@ -24,4 +24,5 @@ https://github.com/lyst/lightfm/blob/master/examples/stackexchange/hybrid_crossv
 https://towardsdatascience.com/creating-a-hybrid-content-collaborative-movie-recommender-using-deep-learning-cc8b431618af
 https://towardsdatascience.com/solving-business-usecases-by-recommender-system-using-lightfm-4ba7b3ac8e62
 
-
+These helper functions may also be of use: 
+https://github.com/aayushmnit/cookbook/blob/master/recsys.py
